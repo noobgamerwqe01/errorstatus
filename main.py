@@ -279,7 +279,7 @@ while True:
             
     #s3 online
     if s3 == 1 :
-        if o2 == 1:
+        if o3 == 1:
             o3 = 5
             temp3 = 0
             embed = {
