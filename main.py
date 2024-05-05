@@ -5,7 +5,8 @@ import codecs
 from core.ServerStatus import *
 from core.Webhook import *
 from core.Logger import *
-
+from keep_alive import keep_alive
+keep_alive()
 # print header text
 printHeader()
 
