@@ -1,0 +1,13 @@
+{
+    "WEBHOOK_URL": "https://discord.com/api/webhooks/1236266259490799656/3zObSBbu0067xjV70JmqGiA4kb_JV98HiX8NZbrTt5OHVtzA7vkPNNMP1KlCBv4KwJnR",
+    "MESSAGE_ID": "1236557598531125289",
+    "SERVER_ADDRESS": "s1.afknetwork.tech",
+    "SERVER_PORT": "25853",
+    "SERVER_ADDRESS2": "s2.afknetwork.tech",
+    "SERVER_PORT2": "25018",
+    "SERVER_ADDRESS3": "s3.afknetwork.tech",
+    "SERVER_PORT3": "25019",
+    "SERVER_NAME": "AFK NETWORK",
+    "FOOTER": "AFK NETWORK",
+    "SLEEP": 5
+}
